@@ -1,6 +1,7 @@
 # serverless-cms
 
-Statuslose Website. Die mir Hexo generiert wird.
+Statuslose Website. Die mit Hexo generiert wird.
+Wird mittels Gibhub Action ausgerollt
 
 see 
 https://hackernoon.com/build-a-serverless-production-ready-blog-b1583c0a5ac2
