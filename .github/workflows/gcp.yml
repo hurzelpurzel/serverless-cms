@@ -20,8 +20,8 @@ jobs:
       with:
         node-version: ${{ env.NODE_VERSION }}
     - run:
-          name: Install Hexo CLI
-          command: npm install -g hexo-cli
+      name: Install Hexo CLI
+      command: npm install -g hexo-cli
     #- name: npm install, build
     #  run: |
     #    hexo generate
