@@ -26,6 +26,7 @@ jobs:
     - name: Generate website
       run: |
          cd kernwestfale.de
+         npm install
          hexo generate
     - name: Set up Cloud SDK
       uses: google-github-actions/setup-gcloud@master
