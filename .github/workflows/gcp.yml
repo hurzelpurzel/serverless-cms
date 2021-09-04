@@ -23,10 +23,12 @@ env:
   #AZURE_WEBAPP_NAME: your-app-name    # set this to your application's name
   #AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '14.x'                # set this to the node version to use
+  OBJECT_LOCATION: public
+  DESTINATION_BUCKET_NAME:  cms-kernwestfale-de
 
 jobs:
   build-and-deploy:
-    name: Build and Deploy
+    name: Build and Deploy to Google
     runs-on: ubuntu-latest
     environment: production
     steps:
@@ -35,13 +37,22 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ env.NODE_VERSION }}
-    - name: npm install, build, and test
+    - run:
+          name: Install Hexo CLI
+          command: npm install -g hexo-cli
+    - restore_cache:
+          keys:
+            - npm-deps-{{ checksum "package.json" }} 
+    - name: npm install, build
       run: |
+        hexo generate
         # Build and test the project, then
-        # deploy to Azure Web App.
-        npm install
-        npm run build --if-present
-        npm run test --if-present
+        
+        
+        # npm install
+        
+        #npm run build --if-present
+        #npm run test --if-present
         
     - name: Set up Cloud SDK
       uses: google-github-actions/setup-gcloud@master
@@ -49,7 +60,7 @@ jobs:
         project_id: ${{ secrets.GCP_PROJECT_ID }}
         service_account_key: ${{ secrets.GCP_SA_KEY }}
         export_default_credentials: true
-    - name: Create VM
+    - name: Upload to google
       run: |
-          gcloud compute instances describe my-instance --zone=us-central1-a || \
- 
+          gsutil cp OBJECT_LOCATION gs://DESTINATION_BUCKET_NAME/
+          
