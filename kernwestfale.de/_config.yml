@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Kernwestfale
+subtitle: 'Der Blog der Familie Pottmeier'
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Ludger Pottmeier
+language: de
+timezone: 'europe/berlin'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://cms.kernwestfale.de
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
