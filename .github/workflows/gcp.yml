@@ -6,7 +6,7 @@ on:
 env:
   NODE_VERSION: '14.x'                # set this to the node version to use
   OBJECT_LOCATION: ./kernwestfale.de/public/*
-  DESTINATION_BUCKET_NAME:  cms-kernwestfale-de
+  DESTINATION_BUCKET_NAME:  cms.kernwestfale.de
 
 jobs:
   build-and-deploy:
