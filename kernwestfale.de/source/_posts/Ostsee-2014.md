@@ -1,9 +1,11 @@
 ---
 title: Ostsee 2014
 date: 2014-04-06 22:48:14
-tags: Gedichte
+tags: Gedanken
 ---
 <center>
+
+# Ostsee2014
 
 Azurblaue Weite
 
@@ -16,6 +18,6 @@ ziellos und frei.
 Mein Hund jagt den Wellen hinterher,
 während der Wind die Gedanken fortbläst.
 
+_Ludger Pottmeier_
 </center>
 
-_Ludger Pottmeier_

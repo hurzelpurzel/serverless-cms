@@ -1,7 +1,7 @@
 ---
 title: Ein verlorener Tag
 date: 2021-02-11 10:48:57
-tags: Gedicht
+tags: Gedichte
 ---
 
 Ein wunderschöner Tag.

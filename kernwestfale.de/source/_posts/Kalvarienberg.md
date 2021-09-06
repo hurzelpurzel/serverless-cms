@@ -5,6 +5,8 @@ tags: Gedanken
 ---
 <center>
 
+# Kalvarienberg
+
 Stümpfe wo einst Fichten standen. 
 Nun ist der Blick frei.
 
@@ -18,6 +20,7 @@ Er genießt die Sonne und kaut gelassen auf einem Stock.
 
 Vielleicht kann man von ihm lernen.
 
+_Ludger Pottmeier_
+
 </center>
 
-_Ludger Pottmeier_

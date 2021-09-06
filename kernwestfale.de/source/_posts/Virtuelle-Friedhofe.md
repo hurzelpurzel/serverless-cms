@@ -1,7 +1,7 @@
 ---
 title: Virtuelle Friedhöfe
 date: 2010-01-06 22:45:55
-tags: Gedichte
+tags: Gedanken
 ---
 <center>
 Ich bin mein Profil.
