@@ -13,7 +13,9 @@ schön das Du da bist.
 Mein  Name ist Ludger Pottmeier. Ich bin Kernwestfale, da ich zwischen Münsterland, Sauerland und Ostwestfalen
 wohne. Ich liebe meine Heimat, meine Familie und meinen Beruf.
 
-Ich arbeite als Softwareentwickler und Cloud Architect bei [Atos](https://atos.net/de/deutschland) mit den Schwerpunkten Google Cloud und Red Hat OpenShift. 
+Ich arbeite als Softwareentwickler und Cloud Architect  mit den Schwerpunkten Google Cloud und Red Hat OpenShift. 
+
+In meiner Freizeit bin ich gerne mit meinem Hund Einstein in der Natur unterwegs.
 
 # Warum dieser Blog ?
 Diese Seite stellt den Versuch da einen Blog Serverless, ohne einen Blogserver zu betreiben.
