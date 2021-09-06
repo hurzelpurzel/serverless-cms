@@ -4,8 +4,8 @@ date: 2020-12-31 23:13:31
 tags: Gedanken
 ---
 <center>
-# Zweittausendzwanzig
 
+# Zweittausendzwanzig
 
 Die Strassen sind leer,
 die Regale auch.
@@ -55,4 +55,5 @@ Oder nutzen wir die Chance mit dem ganzen Geld
 die Welt zu retten ?
 
 _Ludger Pottmeier_
+
 </center>
