@@ -25,7 +25,10 @@ Sie basiert auf dem [Hexo](https://hexo.io/) Framework, der Quellcode liegt in [
 
 ## Und wie geht es weiter ?
 Ehrlich gesagt, weiß ich selbst noch nicht so genau, wie ich diesen Blog nutzen möchte.
-Eine Idee ist aber meiner Tochter Amelie und Ihren sprachelichen & künstlerischen Talent einen Raum zu schaffen.
+
+Eine Idee ist aber meiner Tochter Amelie und Ihren sprachlichen & künstlerischen Talent einen Raum zu schaffen.
+
+Außerdem habe werdeich ggf. auch das ein oeder andere beisteuern. 
  
 
 
