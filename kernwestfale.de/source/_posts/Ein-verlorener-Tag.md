@@ -1,8 +1,7 @@
 ---
 title: Ein verlorener Tag
 date: 2021-02-11 10:48:57
-tags:
-autor: Amelie Pottmeier
+tags: Amelie, Gedicht
 ---
 
 Ein wunderschöner Tag.
