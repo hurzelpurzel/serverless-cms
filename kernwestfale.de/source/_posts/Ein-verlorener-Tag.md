@@ -1,7 +1,7 @@
 ---
 title: Ein verlorener Tag
 date: 2021-02-11 10:48:57
-tags: Amelie, Gedicht
+tags: Gedicht
 ---
 
 Ein wunderschöner Tag.
@@ -45,4 +45,4 @@ Das wollen wir dem Virus vergelten!
 Mit Spritz’ und Nadel will man siegen, doch die Zeit dahin wird nicht fliegen.
 Es dauert und dauert, zerrt und zerrt, die Einsamkeit währt.
 
-_Ammelie Pottmeier im Febuar 2021_
+_Amelie Pottmeier im Febuar 2021_
