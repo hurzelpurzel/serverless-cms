@@ -37,5 +37,5 @@ jobs:
         export_default_credentials: true
     - name: Upload to google
       run: |
-          gsutil rsync -d -r ${{ env.OBJECT_LOCATION }} gs://${{ env.DESTINATION_BUCKET_NAME }}/
+          gsutil rsync -r ${{ env.OBJECT_LOCATION }} gs://${{ env.DESTINATION_BUCKET_NAME }}/
           
