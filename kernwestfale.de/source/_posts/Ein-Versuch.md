@@ -28,8 +28,13 @@ Ehrlich gesagt, weiß ich selbst noch nicht so genau, wie ich diesen Blog nutzen
 
 Eine Idee ist aber meiner Tochter Amelie und Ihren sprachlichen & künstlerischen Talent einen Raum zu schaffen.
 
-Außerdem habe werdeich ggf. auch das ein oeder andere beisteuern. 
- 
+Außerdem  werde ich ggf. auch das ein oder andere beisteuern, u.a. gesammelte Gedanken...
+... vielleicht ein Versuch sie festzuhalten.
+
+_Ludger Pottmeier_
+
+
+
 
 
 
