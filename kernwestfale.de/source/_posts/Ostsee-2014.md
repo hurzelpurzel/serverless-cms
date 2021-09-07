@@ -5,7 +5,6 @@ tags: Gedanken
 ---
 <center>
 
-# Ostsee2014
 
 Azurblaue Weite
 

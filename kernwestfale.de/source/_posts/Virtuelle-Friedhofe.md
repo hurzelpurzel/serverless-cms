@@ -4,6 +4,7 @@ date: 2010-01-06 22:45:55
 tags: Gedanken
 ---
 <center>
+
 Ich bin mein Profil.
 
 Mein Glück bestimme ich.

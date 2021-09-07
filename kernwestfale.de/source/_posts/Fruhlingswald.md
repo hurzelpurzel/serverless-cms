@@ -4,7 +4,6 @@ date: 2015-05-06 23:00:14
 tags: Gedanken
 ---
 <center>
-# Frühlingswald
 
 Ein grünweisses Meer aus Frühlingblumen umspielt die Buchen.
 Hier und da schaut eine Moosinsel daraus hervor.

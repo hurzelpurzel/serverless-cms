@@ -5,7 +5,6 @@ tags: Gedanken
 ---
 <center>
 
-# Farben des Frühlings
 
 Blassgrün scheint die Sonne durch die Blätter.
 Hellgelb leuchtet der Raps.

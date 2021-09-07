@@ -5,7 +5,6 @@ tags: Gedanken
 ---
 <center>
 
-# Zweittausendzwanzig
 
 Die Strassen sind leer,
 die Regale auch.

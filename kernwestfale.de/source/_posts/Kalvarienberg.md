@@ -5,8 +5,6 @@ tags: Gedanken
 ---
 <center>
 
-# Kalvarienberg
-
 Stümpfe wo einst Fichten standen. 
 Nun ist der Blick frei.
 
