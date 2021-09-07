@@ -18,7 +18,7 @@ Alle sind gleich
 überrascht
 
 
-Die Strassen sein voll,
+Die Strassen sind voll,
 die Regale auch.
 
 Im Sommer 2020, wurde alles anders
